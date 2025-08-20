@@ -38,7 +38,7 @@
 
 📊 **Stats Overview**
 - 🔧 Total Repositories: 20+
-- 📈 Total Commits (2025): 178
+- 📈 Total Commits (2025): 178+
 
 🛠️ **Tech Stack Highlights**
 - 💻 Java (Desktop Apps & Games)
@@ -88,7 +88,6 @@
 - 🌐 [GitHub Profile](https://github.com/abhi041540)
 
 ---
-![](https://res.cloudinary.com/dqjorntxe/image/upload/v1755711456/iaisvmohgl0gspzrtm0o.png)
 ### ✨ Fun Fact
 
 > I love turning complex problems into elegant solutions—and making them look good while doing it.
