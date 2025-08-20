@@ -37,10 +37,8 @@
 | 📦 Deployment         | `Streamlit`, `Flask`, `GitHub Pages` |
 
 📊 **Stats Overview**
-- 🔧 Total Repositories: 20
-- 🧠 Contributions This Year: 15
+- 🔧 Total Repositories: 20+
 - 📈 Total Commits (2025): 178
-- ⭐ Most Starred Projects: All pinned repositories (custom-curated)
 
 🛠️ **Tech Stack Highlights**
 - 💻 Java (Desktop Apps & Games)
