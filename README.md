@@ -36,16 +36,6 @@
 | 🔍 Evaluation         | `confusion_matrix`, `ROC-AUC`, `cross_val_score`, `GridSearchCV` |
 | 📦 Deployment         | `Streamlit`, `Flask`, `GitHub Pages` |
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi041540&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi041540&theme=radical" />
-</p>
-
----
 
 ### 🧪 Kaggle Profile
 
