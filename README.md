@@ -55,8 +55,6 @@
 - 💬 TimeDrop | Real-Time Messaging App
 - ♟️ ChessMasterEngine | AI-Powered Chess Game
 
-![](https://res.cloudinary.com/dqjorntxe/image/upload/v1755711456/iaisvmohgl0gspzrtm0o.png)
-
 ### 🧪 Kaggle Profile
 
 - 📊 [Kaggle: Abhishek Jain](https://www.kaggle.com/abhijain1504)
@@ -90,7 +88,7 @@
 - 🌐 [GitHub Profile](https://github.com/abhi041540)
 
 ---
-
+![](https://res.cloudinary.com/dqjorntxe/image/upload/v1755711456/iaisvmohgl0gspzrtm0o.png)
 ### ✨ Fun Fact
 
 > I love turning complex problems into elegant solutions—and making them look good while doing it.
