@@ -55,7 +55,7 @@
 - 💬 TimeDrop | Real-Time Messaging App
 - ♟️ ChessMasterEngine | AI-Powered Chess Game
 
-
+![](https://res.cloudinary.com/dqjorntxe/image/upload/v1755711456/iaisvmohgl0gspzrtm0o.png)
 
 ### 🧪 Kaggle Profile
 
@@ -65,19 +65,20 @@
 
 ### 🔥 Featured Projects
 
+#### 🔹 [IntelliVibe-Ai](https://github.com/abhi041540/IntelliVibe_Ai_Dashboard)
+> Real-time AI chat platform with voice interaction and secure API access. Built with React.js, Node.js, and NLP integration.
+
+#### 🔹 [VisualTV OTT Platform](https://github.com/abhi041540/VisualTV_App)
+> Full-stack OTT app streaming movies via real-time web scraping. Includes custom media player, authentication, and session management.
+
+#### 🔹 [Library Management System](https://github.com/abhi041540/LibraCoreSystem)
+> Java Swing-based desktop app with role-based UI, JDBC integration, and multithreaded logic.
+
 #### 🔹 [Dset Cleaning Tool](https://github.com/abhi041540/Dset-Cleaning)
 > Smart dataset preprocessing app built with Streamlit and Python. Handles nulls, outliers, duplicates, and feature selection using ML pipelines.
 
-#### 🔹 [Intelli Vibe-Ai](https://github.com/abhi041540/Intelli-Vibe-Ai)
-> Real-time AI chat platform with voice interaction and secure API access. Built with React.js, Node.js, and NLP integration.
 
-#### 🔹 [VisualTV OTT Platform](https://github.com/abhi041540/VisualTV)
-> Full-stack OTT app streaming movies via real-time web scraping. Includes custom media player, authentication, and session management.
-
-#### 🔹 [Library Management System](https://github.com/abhi041540/Library-Management-System)
-> Java Swing-based desktop app with role-based UI, JDBC integration, and multithreaded logic.
-
-#### 🔹 [Chess Engine](https://github.com/abhi041540/Chess-Engine)
+#### 🔹 [Chess Engine](https://github.com/abhi041540/StrategicChess)
 > Object-oriented chess game with undo/redo, timer, and decision-tree logic. Built in Java Swing.
 
 ---
