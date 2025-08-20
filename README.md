@@ -36,6 +36,28 @@
 | 🔍 Evaluation         | `confusion_matrix`, `ROC-AUC`, `cross_val_score`, `GridSearchCV` |
 | 📦 Deployment         | `Streamlit`, `Flask`, `GitHub Pages` |
 
+📊 **Stats Overview**
+- 🔧 Total Repositories: 20
+- 🧠 Contributions This Year: 15
+- 📈 Total Commits (2025): 178
+- ⭐ Most Starred Projects: All pinned repositories (custom-curated)
+
+🛠️ **Tech Stack Highlights**
+- 💻 Java (Desktop Apps & Games)
+- 🐍 Python (ML Workflows, Automation)
+- 🌐 MERN Stack (Full-Stack Web Apps)
+- 🤖 ML Projects (Feature Engineering, Ensemble Learning)
+- 🕸️ Web Automation (Selenium)
+
+📌 **Pinned Projects Showcase**
+- 🎮 BreakTheBrick | Java Game
+- 📚 LibraCoreSystem | Enterprise Library Management
+- 📺 VisualTV_JavaApp | OTT Platform
+- 🧠 EduQuizMaster | Educational Tool
+- 💬 TimeDrop | Real-Time Messaging App
+- ♟️ ChessMasterEngine | AI-Powered Chess Game
+
+
 
 ### 🧪 Kaggle Profile
 
