@@ -66,6 +66,9 @@
 #### 🔹 [IntelliVibe-Ai](https://github.com/abhi041540/IntelliVibe_Ai_Dashboard)
 > Real-time AI chat platform with voice interaction and secure API access. Built with React.js, Node.js, and NLP integration.
 
+#### 🔹 [BrainFuel](https://github.com/abhi041540/BrainFuel)
+> BrainFuel is a cross-platform quiz app built with React Native, offering 50+ curated categories, dynamic difficulty levels, and real-time performance tracking for interview prep and academic mastery.
+
 #### 🔹 [VisualTV OTT Platform](https://github.com/abhi041540/VisualTV_App)
 > Full-stack OTT app streaming movies via real-time web scraping. Includes custom media player, authentication, and session management.
 
@@ -75,9 +78,6 @@
 #### 🔹 [Dset Cleaning Tool](https://github.com/abhi041540/Dset-Cleaning)
 > Smart dataset preprocessing app built with Streamlit and Python. Handles nulls, outliers, duplicates, and feature selection using ML pipelines.
 
-
-#### 🔹 [Chess Engine](https://github.com/abhi041540/StrategicChess)
-> Object-oriented chess game with undo/redo, timer, and decision-tree logic. Built in Java Swing.
 
 ---
 
