@@ -43,7 +43,7 @@
 🛠️ **Tech Stack Highlights**
 - 💻 Java (Desktop Apps & Games)
 - 🐍 Python (ML Workflows, Automation)
-- 🌐 MERN Stack (Full-Stack Web Apps)
+- 🌐 MERN Stack (Full-Stack Web, Mobile Apps(IOS/ANDROID))
 - 🤖 ML Projects (Feature Engineering, Ensemble Learning)
 - 🕸️ Web Automation (Selenium)
 
