@@ -16,7 +16,6 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year Computer Science Engineering student at JECRC University
 - 💻 Passionate about building scalable full-stack applications and intelligent ML tools
 - 🧠 Skilled in React.js, Node.js, Python, Java, MongoDB, and more
 - 🛠️ Experienced in API design, database architecture, and real-time systems
