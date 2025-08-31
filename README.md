@@ -31,10 +31,10 @@
 |---------------------|------------------|
 | 📊 Data Cleaning     | `pandas`, `NumPy`, `missingno` |
 | 📈 Visualization     | `matplotlib`, `seaborn`, `plotly` |
-| 🧬 Feature Engineering | `mlxtend`, `scikit-learn`, `category_encoders` |
-| 🧠 Model Training     | `scikit-learn`, `XGBoost`, `LightGBM`, `mlxtend`, `CatBoost` |
-| 🔍 Evaluation         | `confusion_matrix`, `ROC-AUC`, `cross_val_score`, `GridSearchCV` |
-| 📦 Deployment         | `Streamlit`, `Flask`, `GitHub Pages` |
+| 🧬 Feature Engineering | `mlxtend`, `scikit-learn` |
+| 🧠 Model Training     | `scikit-learn`, `mlxtend`
+| 🔍 Evaluation         | `confusion_matrix`, ` RandomSearch CV`, `GridSearchCV` ,` MeanSquareError` , `MeanAbsoluteError`|
+| 📦 Deployment         |`GitHub Pages, ` React native` ,` Vercel`, ` Render` , `Streamlit` |
 
 📊 **Stats Overview**
 - 🔧 Total Repositories: 20+
