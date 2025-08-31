@@ -34,7 +34,7 @@
 | 🧬 Feature Engineering | `mlxtend`, `scikit-learn` |
 | 🧠 Model Training     | `scikit-learn`, `mlxtend`
 | 🔍 Evaluation         | `confusion_matrix`, ` RandomSearch CV`, `GridSearchCV` ,` MeanSquareError` , `MeanAbsoluteError`|
-| 📦 Deployment         |`GitHub Pages`, ` React native`, `Vercel`, `Render`, `Streamlit` |
+| 📦 Deployment         |`GitHub Pages`,`Vercel`, `Render`, `Streamlit` |
 
 📊 **Stats Overview**
 - 🔧 Total Repositories: 20+
