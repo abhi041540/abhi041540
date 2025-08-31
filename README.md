@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Framework-React.js-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/ML-Scikit--Learn-purple?style=flat-square&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/ML-Extended-green?style=flat-square" />
-   <img src="https://img.shields.io/badge/Framework-React%20Native-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML-mlxtend-green?style=flat-square" />
+   <img src="https://img.shields.io/badge/Framework-React%20Native-blue?style=flat-square&logo=react" />
 </p>
 
 ---
